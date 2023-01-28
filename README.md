@@ -14,6 +14,7 @@ Escolha seu símbolo e descubra a melhor estratégia para combinar três campos 
 * O jogo marca os campos de vitória
 * O jogo te mostra o vencedor e o empate caso ocorra
 * Um mesmo campo não pode ser selecionado duas vezes
+* O jogador pode interroper o jogo no meio da partida
 * Responsividade
 
 ## 🛠 Tecnologias
