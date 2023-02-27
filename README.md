@@ -2,7 +2,7 @@
 
 <img src="./.github/preview.png" alt="Preview do projeto" />
 
-O Jogo da Velha desenvolvido por um dev iniciante. Você pode jogar com mais uma pessoa, porém no mesmo dispositivo. <br>
+O Jogo da Velha. Você pode jogar com mais uma pessoa, porém no mesmo dispositivo. <br>
 Escolha seu símbolo e descubra a melhor estratégia para combinar três campos e ganhar do seu adversário!
 
 [🕹 Jogue aqui!](https://lucyanovidio.github.io/tic-tac-toe/)
