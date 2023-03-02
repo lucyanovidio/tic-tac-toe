@@ -27,8 +27,6 @@ Escolha seu símbolo e descubra a melhor estratégia para combinar três campos 
 
 <br>
 
-> Este jogo foi desenvolvido por diversão. Precisa de muita melhoria técnica, mas foi interessante de desenvolver e eu aprendi bastante! Fica a dica: Não se prenda a monotonia da rotina. Sempre que puder, se divirta com o que escolheu por profissão! 😁
-
 ---
 
 <table>
